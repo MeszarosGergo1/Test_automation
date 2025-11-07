@@ -86,7 +86,9 @@
 ## Szoftverfejlesztési és tesztelési modellek(vízesés, V-modell, agilis modell):
 ### Vízesésmodell
 <img src="https://centroszet.hu/tananyag/szervezes2/image003.jpg" alt="image"  height="220">
- 
+    A vízesés modell (waterfall model)
+    egy szekvenciális, lineáris szoftverfejlesztési módszertan, amelyben a projekt lépései szigorú sorrendben követik egymást: először az elemzés, majd a tervezés, a megvalósítás (kódolás), a tesztelés, a telepítés (közzététel), és végül a karbantartás következik. Minden fázis akkor fejeződik be, mielőtt a következő megkezdődhetne, és a modellekre jellemző a részletes dokumentáció. 
+
 ### V-modell
 <img src="https://www.sei.cmu.edu/media/images/F1_-_Traditional_V_Model.original.jpg" alt="image"  height="220">
 
@@ -100,5 +102,4 @@
 #### TDD
     A TDD a tesztvezérelt fejlesztés (Test-Driven Development) rövidítése, egy olyan szoftverfejlesztési módszer, amelyben az automatizált teszteket írják meg az adott funkcióra szolgáló kód írása előtt. Ezzel a módszerrel a fejlesztési ciklus során az első lépés egy tesztírása, ami eleinte sikertelen (ez a "Piros" fázis). Ezután írnak annyi kódot, amennyi a teszt sikeres teljesítéséhez szükséges (ez a "Zöld" fázis). Végül mind a teszt-, mind a gyártási kódot meg lehet refaktorálni, javítani a struktúrát anélkül, hogy a tesztek meghiúsulnának (ez a "Refaktor" fázis). 
 #### BDD
-    A viselkedésvezérelt fejlesztés
-    (BDD) egy szoftvertesztelési módszertan, amely természetes nyelvű, a domain-specifikus nyelven (DSL) írt teszteket használ, hogy elősegítse a kommunikációt és a megértést a fejlesztők, a minőségbiztosítási szakemberek és az ügyfélképviselők között. A BDD a tesztvezérelt fejlesztés (TDD) finomítása, amely a tesztek írásával kezdődik, és a konkrét példákon és eszmecserén alapul a szoftver viselkedésének közös megértése érdekében.
+    A viselkedésvezérelt fejlesztés(BDD) egy szoftvertesztelési módszertan, amely természetes nyelvű, a domain-specifikus nyelven (DSL) írt teszteket használ, hogy elősegítse a kommunikációt és a megértést a fejlesztők, a minőségbiztosítási szakemberek és az ügyfélképviselők között. A BDD a tesztvezérelt fejlesztés (TDD) finomítása, amely a tesztek írásával kezdődik, és a konkrét példákon és eszmecserén alapul a szoftver viselkedésének közös megértése érdekében.
