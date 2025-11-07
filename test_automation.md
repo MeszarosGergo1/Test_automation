@@ -95,6 +95,10 @@
 
 
 ### TDD, BDD modell jellemzői.
-#### TDD
+<img src="https://user-images.githubusercontent.com/9147189/261344999-08caa695-ebbd-40b0-aa8b-5237bdef84a1.png" alt="image"  height="220">
 
+#### TDD
+    A TDD a tesztvezérelt fejlesztés (Test-Driven Development) rövidítése, egy olyan szoftverfejlesztési módszer, amelyben az automatizált teszteket írják meg az adott funkcióra szolgáló kód írása előtt. Ezzel a módszerrel a fejlesztési ciklus során az első lépés egy tesztírása, ami eleinte sikertelen (ez a "Piros" fázis). Ezután írnak annyi kódot, amennyi a teszt sikeres teljesítéséhez szükséges (ez a "Zöld" fázis). Végül mind a teszt-, mind a gyártási kódot meg lehet refaktorálni, javítani a struktúrát anélkül, hogy a tesztek meghiúsulnának (ez a "Refaktor" fázis). 
 #### BDD
+    A viselkedésvezérelt fejlesztés
+    (BDD) egy szoftvertesztelési módszertan, amely természetes nyelvű, a domain-specifikus nyelven (DSL) írt teszteket használ, hogy elősegítse a kommunikációt és a megértést a fejlesztők, a minőségbiztosítási szakemberek és az ügyfélképviselők között. A BDD a tesztvezérelt fejlesztés (TDD) finomítása, amely a tesztek írásával kezdődik, és a konkrét példákon és eszmecserén alapul a szoftver viselkedésének közös megértése érdekében.
