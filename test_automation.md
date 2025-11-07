@@ -83,6 +83,18 @@
     A statikus tesztelés során a kódot vagy dokumentációt elemzik futtatás nélkül, például kód review vagy statikus analízis formájában.
     A dinamikus tesztelés során a szoftvert ténylegesen futtatják, és ellenőrzik a viselkedését a különböző bemenetekre.
 
-### Szoftverfejlesztési és tesztelési modellek(vízesés, V-modell, agilis modell):
+## Szoftverfejlesztési és tesztelési modellek(vízesés, V-modell, agilis modell):
+### Vízesésmodell
+<img src="https://centroszet.hu/tananyag/szervezes2/image003.jpg" alt="image"  height="220">
+ 
+### V-modell
+<img src="https://www.sei.cmu.edu/media/images/F1_-_Traditional_V_Model.original.jpg" alt="image"  height="220">
+
+### agilis modell
+<img src="https://projektcoach.hu/wp-content/uploads/2018/11/21_agile.png" alt="image"  height="220">
+
 
 ### TDD, BDD modell jellemzői.
+#### TDD
+
+#### BDD
