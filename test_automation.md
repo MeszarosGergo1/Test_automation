@@ -82,3 +82,7 @@
 #### Mi a különbség a statikus és dinamikus tesztelés között?
     A statikus tesztelés során a kódot vagy dokumentációt elemzik futtatás nélkül, például kód review vagy statikus analízis formájában.
     A dinamikus tesztelés során a szoftvert ténylegesen futtatják, és ellenőrzik a viselkedését a különböző bemenetekre.
+
+### Szoftverfejlesztési és tesztelési modellek(vízesés, V-modell, agilis modell):
+
+### TDD, BDD modell jellemzői.
